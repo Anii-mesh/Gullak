@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Gullak" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Gullak.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#6650A4</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.Gullak</item>
+    </style>
+</resources>

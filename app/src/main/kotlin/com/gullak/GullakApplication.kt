@@ -1,0 +1,6 @@
+package com.animesh.gullak
+import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
+
+@HiltAndroidApp
+class GullakApplication : Application()
