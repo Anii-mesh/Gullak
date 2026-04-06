@@ -1,4 +1,4 @@
-**#  Personal Finance Companion — Gullak App
+#  Personal Finance Companion — Gullak App
 
 A polished, feature-rich personal finance tracking app built with **Kotlin + Jetpack Compose**
 
